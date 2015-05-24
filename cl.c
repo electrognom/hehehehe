@@ -52,7 +52,7 @@ void *chat_with_server(void *arg){
 }
 
 
-asdasfdasfdasd
+asdasfdasf
 asdasdasdas
 int main()
 {
